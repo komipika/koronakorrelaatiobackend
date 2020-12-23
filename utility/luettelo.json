@@ -1,0 +1,962 @@
+{
+    "Alajärvi": {
+        "koodi": "area005"
+    },
+    "Alavieska": {
+        "koodi": "area009"
+    },
+    "Alavus": {
+        "koodi": "area010"
+    },
+    "Asikkala": {
+        "koodi": "area016"
+    },
+    "Askola": {
+        "koodi": "area018"
+    },
+    "Aura": {
+        "koodi": "area019"
+    },
+    "Akaa": {
+        "koodi": "area020"
+    },
+    "Brändö": {
+        "koodi": "area035"
+    },
+    "Eckerö": {
+        "koodi": "area043"
+    },
+    "Enonkoski": {
+        "koodi": "area046"
+    },
+    "Enontekiö": {
+        "koodi": "area047"
+    },
+    "Espoo": {
+        "koodi": "area049"
+    },
+    "Eura": {
+        "koodi": "area050"
+    },
+    "Eurajoki": {
+        "koodi": "area051"
+    },
+    "Evijärvi": {
+        "koodi": "area052"
+    },
+    "Finström": {
+        "koodi": "area060"
+    },
+    "Forssa": {
+        "koodi": "area061"
+    },
+    "Föglö": {
+        "koodi": "area062"
+    },
+    "Geta": {
+        "koodi": "area065"
+    },
+    "Haapajärvi": {
+        "koodi": "area069"
+    },
+    "Haapavesi": {
+        "koodi": "area071"
+    },
+    "Hailuoto": {
+        "koodi": "area072"
+    },
+    "Halsua": {
+        "koodi": "area074"
+    },
+    "Hamina": {
+        "koodi": "area075"
+    },
+    "Hammarland": {
+        "koodi": "area076"
+    },
+    "Hankasalmi": {
+        "koodi": "area077"
+    },
+    "Hanko": {
+        "koodi": "area078"
+    },
+    "Harjavalta": {
+        "koodi": "area079"
+    },
+    "Hartola": {
+        "koodi": "area081"
+    },
+    "Hattula": {
+        "koodi": "area082"
+    },
+    "Hausjärvi": {
+        "koodi": "area086"
+    },
+    "Heinävesi": {
+        "koodi": "area090"
+    },
+    "Helsinki": {
+        "koodi": "area091"
+    },
+    "Vantaa": {
+        "koodi": "area092"
+    },
+    "Hirvensalmi": {
+        "koodi": "area097"
+    },
+    "Hollola": {
+        "koodi": "area098"
+    },
+    "Honkajoki": {
+        "koodi": "area099"
+    },
+    "Huittinen": {
+        "koodi": "area102"
+    },
+    "Humppila": {
+        "koodi": "area103"
+    },
+    "Hyrynsalmi": {
+        "koodi": "area105"
+    },
+    "Hyvinkää": {
+        "koodi": "area106"
+    },
+    "Hämeenkyrö": {
+        "koodi": "area108"
+    },
+    "Hämeenlinna": {
+        "koodi": "area109"
+    },
+    "Heinola": {
+        "koodi": "area111"
+    },
+    "Ii": {
+        "koodi": "area139"
+    },
+    "Iisalmi": {
+        "koodi": "area140"
+    },
+    "Iitti": {
+        "koodi": "area142"
+    },
+    "Ikaalinen": {
+        "koodi": "area143"
+    },
+    "Ilmajoki": {
+        "koodi": "area145"
+    },
+    "Ilomantsi": {
+        "koodi": "area146"
+    },
+    "Inari": {
+        "koodi": "area148"
+    },
+    "Inkoo": {
+        "koodi": "area149"
+    },
+    "Isojoki": {
+        "koodi": "area151"
+    },
+    "Isokyrö": {
+        "koodi": "area152"
+    },
+    "Imatra": {
+        "koodi": "area153"
+    },
+    "Jalasjärvi": {
+        "koodi": "area164"
+    },
+    "Janakkala": {
+        "koodi": "area165"
+    },
+    "Joensuu": {
+        "koodi": "area167"
+    },
+    "Jokioinen": {
+        "koodi": "area169"
+    },
+    "Jomala": {
+        "koodi": "area170"
+    },
+    "Joroinen": {
+        "koodi": "area171"
+    },
+    "Joutsa": {
+        "koodi": "area172"
+    },
+    "Juankoski": {
+        "koodi": "area174"
+    },
+    "Juuka": {
+        "koodi": "area176"
+    },
+    "Juupajoki": {
+        "koodi": "area177"
+    },
+    "Juva": {
+        "koodi": "area178"
+    },
+    "Jyväskylä": {
+        "koodi": "area179"
+    },
+    "Jämijärvi": {
+        "koodi": "area181"
+    },
+    "Jämsä": {
+        "koodi": "area182"
+    },
+    "Järvenpää": {
+        "koodi": "area186"
+    },
+    "Kaarina": {
+        "koodi": "area202"
+    },
+    "Kaavi": {
+        "koodi": "area204"
+    },
+    "Kajaani": {
+        "koodi": "area205"
+    },
+    "Kalajoki": {
+        "koodi": "area208"
+    },
+    "Kangasala": {
+        "koodi": "area211"
+    },
+    "Kangasniemi": {
+        "koodi": "area213"
+    },
+    "Kankaanpää": {
+        "koodi": "area214"
+    },
+    "Kannonkoski": {
+        "koodi": "area216"
+    },
+    "Kannus": {
+        "koodi": "area217"
+    },
+    "Karijoki": {
+        "koodi": "area218"
+    },
+    "Karkkila": {
+        "koodi": "area224"
+    },
+    "Karstula": {
+        "koodi": "area226"
+    },
+    "Karvia": {
+        "koodi": "area230"
+    },
+    "Kaskinen": {
+        "koodi": "area231"
+    },
+    "Kauhajoki": {
+        "koodi": "area232"
+    },
+    "Kauhava": {
+        "koodi": "area233"
+    },
+    "Kauniainen": {
+        "koodi": "area235"
+    },
+    "Kaustinen": {
+        "koodi": "area236"
+    },
+    "Keitele": {
+        "koodi": "area239"
+    },
+    "Kemi": {
+        "koodi": "area240"
+    },
+    "Keminmaa": {
+        "koodi": "area241"
+    },
+    "Kempele": {
+        "koodi": "area244"
+    },
+    "Kerava": {
+        "koodi": "area245"
+    },
+    "Keuruu": {
+        "koodi": "area249"
+    },
+    "Kihniö": {
+        "koodi": "area250"
+    },
+    "Kinnula": {
+        "koodi": "area256"
+    },
+    "Kirkkonummi": {
+        "koodi": "area257"
+    },
+    "Kitee": {
+        "koodi": "area260"
+    },
+    "Kittilä": {
+        "koodi": "area261"
+    },
+    "Kiuruvesi": {
+        "koodi": "area263"
+    },
+    "Kivijärvi": {
+        "koodi": "area265"
+    },
+    "Kokemäki": {
+        "koodi": "area271"
+    },
+    "Kokkola": {
+        "koodi": "area272"
+    },
+    "Kolari": {
+        "koodi": "area273"
+    },
+    "Konnevesi": {
+        "koodi": "area275"
+    },
+    "Kontiolahti": {
+        "koodi": "area276"
+    },
+    "Korsnäs": {
+        "koodi": "area280"
+    },
+    "Hämeenkoski": {
+        "koodi": "area283"
+    },
+    "Koski Tl": {
+        "koodi": "area284"
+    },
+    "Kotka": {
+        "koodi": "area285"
+    },
+    "Kouvola": {
+        "koodi": "area286"
+    },
+    "Kristiinankaupunki": {
+        "koodi": "area287"
+    },
+    "Kruunupyy": {
+        "koodi": "area288"
+    },
+    "Kuhmo": {
+        "koodi": "area290"
+    },
+    "Kuhmoinen": {
+        "koodi": "area291"
+    },
+    "Kumlinge": {
+        "koodi": "area295"
+    },
+    "Kuopio": {
+        "koodi": "area297"
+    },
+    "Kuortane": {
+        "koodi": "area300"
+    },
+    "Kurikka": {
+        "koodi": "area301"
+    },
+    "Kustavi": {
+        "koodi": "area304"
+    },
+    "Kuusamo": {
+        "koodi": "area305"
+    },
+    "Outokumpu": {
+        "koodi": "area309"
+    },
+    "Kyyjärvi": {
+        "koodi": "area312"
+    },
+    "Kärkölä": {
+        "koodi": "area316"
+    },
+    "Kärsämäki": {
+        "koodi": "area317"
+    },
+    "Kökar": {
+        "koodi": "area318"
+    },
+    "Köyliö": {
+        "koodi": "area319"
+    },
+    "Kemijärvi": {
+        "koodi": "area320"
+    },
+    "Kemiönsaari": {
+        "koodi": "area322"
+    },
+    "Lahti": {
+        "koodi": "area398"
+    },
+    "Laihia": {
+        "koodi": "area399"
+    },
+    "Laitila": {
+        "koodi": "area400"
+    },
+    "Lapinlahti": {
+        "koodi": "area402"
+    },
+    "Lappajärvi": {
+        "koodi": "area403"
+    },
+    "Lappeenranta": {
+        "koodi": "area405"
+    },
+    "Lapinjärvi": {
+        "koodi": "area407"
+    },
+    "Lapua": {
+        "koodi": "area408"
+    },
+    "Laukaa": {
+        "koodi": "area410"
+    },
+    "Lavia": {
+        "koodi": "area413"
+    },
+    "Lemi": {
+        "koodi": "area416"
+    },
+    "Lemland": {
+        "koodi": "area417"
+    },
+    "Lempäälä": {
+        "koodi": "area418"
+    },
+    "Leppävirta": {
+        "koodi": "area420"
+    },
+    "Lestijärvi": {
+        "koodi": "area421"
+    },
+    "Lieksa": {
+        "koodi": "area422"
+    },
+    "Lieto": {
+        "koodi": "area423"
+    },
+    "Liminka": {
+        "koodi": "area425"
+    },
+    "Liperi": {
+        "koodi": "area426"
+    },
+    "Loimaa": {
+        "koodi": "area430"
+    },
+    "Loppi": {
+        "koodi": "area433"
+    },
+    "Loviisa": {
+        "koodi": "area434"
+    },
+    "Luhanka": {
+        "koodi": "area435"
+    },
+    "Lumijoki": {
+        "koodi": "area436"
+    },
+    "Lumparland": {
+        "koodi": "area438"
+    },
+    "Luoto": {
+        "koodi": "area440"
+    },
+    "Luumäki": {
+        "koodi": "area441"
+    },
+    "Luvia": {
+        "koodi": "area442"
+    },
+    "Lohja": {
+        "koodi": "area444"
+    },
+    "Parainen": {
+        "koodi": "area445"
+    },
+    "Maalahti": {
+        "koodi": "area475"
+    },
+    "Maaninka": {
+        "koodi": "area476"
+    },
+    "Maarianhamina": {
+        "koodi": "area478"
+    },
+    "Marttila": {
+        "koodi": "area480"
+    },
+    "Masku": {
+        "koodi": "area481"
+    },
+    "Merijärvi": {
+        "koodi": "area483"
+    },
+    "Merikarvia": {
+        "koodi": "area484"
+    },
+    "Miehikkälä": {
+        "koodi": "area489"
+    },
+    "Mikkeli": {
+        "koodi": "area491"
+    },
+    "Muhos": {
+        "koodi": "area494"
+    },
+    "Multia": {
+        "koodi": "area495"
+    },
+    "Muonio": {
+        "koodi": "area498"
+    },
+    "Mustasaari": {
+        "koodi": "area499"
+    },
+    "Muurame": {
+        "koodi": "area500"
+    },
+    "Mynämäki": {
+        "koodi": "area503"
+    },
+    "Myrskylä": {
+        "koodi": "area504"
+    },
+    "Mäntsälä": {
+        "koodi": "area505"
+    },
+    "Mäntyharju": {
+        "koodi": "area507"
+    },
+    "Mänttä-Vilppula": {
+        "koodi": "area508"
+    },
+    "Naantali": {
+        "koodi": "area529"
+    },
+    "Nakkila": {
+        "koodi": "area531"
+    },
+    "Nastola": {
+        "koodi": "area532"
+    },
+    "Nivala": {
+        "koodi": "area535"
+    },
+    "Nokia": {
+        "koodi": "area536"
+    },
+    "Nousiainen": {
+        "koodi": "area538"
+    },
+    "Nurmes": {
+        "koodi": "area541"
+    },
+    "Nurmijärvi": {
+        "koodi": "area543"
+    },
+    "Närpiö": {
+        "koodi": "area545"
+    },
+    "Orimattila": {
+        "koodi": "area560"
+    },
+    "Oripää": {
+        "koodi": "area561"
+    },
+    "Orivesi": {
+        "koodi": "area562"
+    },
+    "Oulainen": {
+        "koodi": "area563"
+    },
+    "Oulu": {
+        "koodi": "area564"
+    },
+    "Padasjoki": {
+        "koodi": "area576"
+    },
+    "Paimio": {
+        "koodi": "area577"
+    },
+    "Paltamo": {
+        "koodi": "area578"
+    },
+    "Parikkala": {
+        "koodi": "area580"
+    },
+    "Parkano": {
+        "koodi": "area581"
+    },
+    "Pelkosenniemi": {
+        "koodi": "area583"
+    },
+    "Perho": {
+        "koodi": "area584"
+    },
+    "Pertunmaa": {
+        "koodi": "area588"
+    },
+    "Petäjävesi": {
+        "koodi": "area592"
+    },
+    "Pieksämäki": {
+        "koodi": "area593"
+    },
+    "Pielavesi": {
+        "koodi": "area595"
+    },
+    "Pietarsaari": {
+        "koodi": "area598"
+    },
+    "Pedersören kunta": {
+        "koodi": "area599"
+    },
+    "Pihtipudas": {
+        "koodi": "area601"
+    },
+    "Pirkkala": {
+        "koodi": "area604"
+    },
+    "Polvijärvi": {
+        "koodi": "area607"
+    },
+    "Pomarkku": {
+        "koodi": "area608"
+    },
+    "Pori": {
+        "koodi": "area609"
+    },
+    "Pornainen": {
+        "koodi": "area611"
+    },
+    "Posio": {
+        "koodi": "area614"
+    },
+    "Pudasjärvi": {
+        "koodi": "area615"
+    },
+    "Pukkila": {
+        "koodi": "area616"
+    },
+    "Punkalaidun": {
+        "koodi": "area619"
+    },
+    "Puolanka": {
+        "koodi": "area620"
+    },
+    "Puumala": {
+        "koodi": "area623"
+    },
+    "Pyhtää": {
+        "koodi": "area624"
+    },
+    "Pyhäjoki": {
+        "koodi": "area625"
+    },
+    "Pyhäjärvi": {
+        "koodi": "area626"
+    },
+    "Pyhäntä": {
+        "koodi": "area630"
+    },
+    "Pyhäranta": {
+        "koodi": "area631"
+    },
+    "Pälkäne": {
+        "koodi": "area635"
+    },
+    "Pöytyä": {
+        "koodi": "area636"
+    },
+    "Porvoo": {
+        "koodi": "area638"
+    },
+    "Raahe": {
+        "koodi": "area678"
+    },
+    "Raisio": {
+        "koodi": "area680"
+    },
+    "Rantasalmi": {
+        "koodi": "area681"
+    },
+    "Ranua": {
+        "koodi": "area683"
+    },
+    "Rauma": {
+        "koodi": "area684"
+    },
+    "Rautalampi": {
+        "koodi": "area686"
+    },
+    "Rautavaara": {
+        "koodi": "area687"
+    },
+    "Rautjärvi": {
+        "koodi": "area689"
+    },
+    "Reisjärvi": {
+        "koodi": "area691"
+    },
+    "Riihimäki": {
+        "koodi": "area694"
+    },
+    "Ristijärvi": {
+        "koodi": "area697"
+    },
+    "Rovaniemi": {
+        "koodi": "area698"
+    },
+    "Ruokolahti": {
+        "koodi": "area700"
+    },
+    "Ruovesi": {
+        "koodi": "area702"
+    },
+    "Rusko": {
+        "koodi": "area704"
+    },
+    "Rääkkylä": {
+        "koodi": "area707"
+    },
+    "Raasepori": {
+        "koodi": "area710"
+    },
+    "Saarijärvi": {
+        "koodi": "area729"
+    },
+    "Salla": {
+        "koodi": "area732"
+    },
+    "Salo": {
+        "koodi": "area734"
+    },
+    "Saltvik": {
+        "koodi": "area736"
+    },
+    "Sauvo": {
+        "koodi": "area738"
+    },
+    "Savitaipale": {
+        "koodi": "area739"
+    },
+    "Savonlinna": {
+        "koodi": "area740"
+    },
+    "Savukoski": {
+        "koodi": "area742"
+    },
+    "Seinäjoki": {
+        "koodi": "area743"
+    },
+    "Sievi": {
+        "koodi": "area746"
+    },
+    "Siikainen": {
+        "koodi": "area747"
+    },
+    "Siikajoki": {
+        "koodi": "area748"
+    },
+    "Siilinjärvi": {
+        "koodi": "area749"
+    },
+    "Simo": {
+        "koodi": "area751"
+    },
+    "Sipoo": {
+        "koodi": "area753"
+    },
+    "Siuntio": {
+        "koodi": "area755"
+    },
+    "Sodankylä": {
+        "koodi": "area758"
+    },
+    "Soini": {
+        "koodi": "area759"
+    },
+    "Somero": {
+        "koodi": "area761"
+    },
+    "Sonkajärvi": {
+        "koodi": "area762"
+    },
+    "Sotkamo": {
+        "koodi": "area765"
+    },
+    "Sottunga": {
+        "koodi": "area766"
+    },
+    "Sulkava": {
+        "koodi": "area768"
+    },
+    "Sund": {
+        "koodi": "area771"
+    },
+    "Suomussalmi": {
+        "koodi": "area777"
+    },
+    "Suonenjoki": {
+        "koodi": "area778"
+    },
+    "Sysmä": {
+        "koodi": "area781"
+    },
+    "Säkylä": {
+        "koodi": "area783"
+    },
+    "Vaala": {
+        "koodi": "area785"
+    },
+    "Sastamala": {
+        "koodi": "area790"
+    },
+    "Siikalatva": {
+        "koodi": "area791"
+    },
+    "Taipalsaari": {
+        "koodi": "area831"
+    },
+    "Taivalkoski": {
+        "koodi": "area832"
+    },
+    "Taivassalo": {
+        "koodi": "area833"
+    },
+    "Tammela": {
+        "koodi": "area834"
+    },
+    "Tampere": {
+        "koodi": "area837"
+    },
+    "Tarvasjoki": {
+        "koodi": "area838"
+    },
+    "Tervo": {
+        "koodi": "area844"
+    },
+    "Tervola": {
+        "koodi": "area845"
+    },
+    "Teuva": {
+        "koodi": "area846"
+    },
+    "Tohmajärvi": {
+        "koodi": "area848"
+    },
+    "Toholampi": {
+        "koodi": "area849"
+    },
+    "Toivakka": {
+        "koodi": "area850"
+    },
+    "Tornio": {
+        "koodi": "area851"
+    },
+    "Turku": {
+        "koodi": "area853"
+    },
+    "Pello": {
+        "koodi": "area854"
+    },
+    "Tuusniemi": {
+        "koodi": "area857"
+    },
+    "Tuusula": {
+        "koodi": "area858"
+    },
+    "Tyrnävä": {
+        "koodi": "area859"
+    },
+    "Ulvila": {
+        "koodi": "area886"
+    },
+    "Urjala": {
+        "koodi": "area887"
+    },
+    "Utajärvi": {
+        "koodi": "area889"
+    },
+    "Utsjoki": {
+        "koodi": "area890"
+    },
+    "Uurainen": {
+        "koodi": "area892"
+    },
+    "Uusikaarlepyy": {
+        "koodi": "area893"
+    },
+    "Uusikaupunki": {
+        "koodi": "area895"
+    },
+    "Vaasa": {
+        "koodi": "area905"
+    },
+    "Valkeakoski": {
+        "koodi": "area908"
+    },
+    "Valtimo": {
+        "koodi": "area911"
+    },
+    "Varkaus": {
+        "koodi": "area915"
+    },
+    "Vehmaa": {
+        "koodi": "area918"
+    },
+    "Vesanto": {
+        "koodi": "area921"
+    },
+    "Vesilahti": {
+        "koodi": "area922"
+    },
+    "Veteli": {
+        "koodi": "area924"
+    },
+    "Vieremä": {
+        "koodi": "area925"
+    },
+    "Vihti": {
+        "koodi": "area927"
+    },
+    "Viitasaari": {
+        "koodi": "area931"
+    },
+    "Vimpeli": {
+        "koodi": "area934"
+    },
+    "Virolahti": {
+        "koodi": "area935"
+    },
+    "Virrat": {
+        "koodi": "area936"
+    },
+    "Vårdö": {
+        "koodi": "area941"
+    },
+    "Vöyri": {
+        "koodi": "area946"
+    },
+    "Ylitornio": {
+        "koodi": "area976"
+    },
+    "Ylivieska": {
+        "koodi": "area977"
+    },
+    "Ylöjärvi": {
+        "koodi": "area980"
+    },
+    "Ypäjä": {
+        "koodi": "area981"
+    },
+    "Ähtäri": {
+        "koodi": "area989"
+    },
+    "Äänekoski": {
+        "koodi": "area992"
+    }
+}

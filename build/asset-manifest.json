@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa9644e6.chunk.css",
+    "main.js": "/static/js/main.4498f004.chunk.js",
+    "main.js.map": "/static/js/main.4498f004.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ae0a4b14.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ae0a4b14.js.map",
+    "static/css/2.652f8640.chunk.css": "/static/css/2.652f8640.chunk.css",
+    "static/js/2.9305b8a0.chunk.js": "/static/js/2.9305b8a0.chunk.js",
+    "static/js/2.9305b8a0.chunk.js.map": "/static/js/2.9305b8a0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e24feabb7e38d3786bbb1597ae1f7a55.js": "/precache-manifest.e24feabb7e38d3786bbb1597ae1f7a55.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.652f8640.chunk.css.map": "/static/css/2.652f8640.chunk.css.map",
+    "static/css/main.fa9644e6.chunk.css.map": "/static/css/main.fa9644e6.chunk.css.map",
+    "static/js/2.9305b8a0.chunk.js.LICENSE.txt": "/static/js/2.9305b8a0.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae0a4b14.js",
+    "static/css/2.652f8640.chunk.css",
+    "static/js/2.9305b8a0.chunk.js",
+    "static/css/main.fa9644e6.chunk.css",
+    "static/js/main.4498f004.chunk.js"
+  ]
+}
